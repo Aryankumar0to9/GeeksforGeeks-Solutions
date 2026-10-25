@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "solutions": [
+    {
+      "path": "gfg/Java/Easy/Palindrome-Sentence/Solution.java",
+      "metadata": {
+        "platform": "gfg",
+        "title": "Palindrome Sentence",
+        "slug": "string-palindromic-ignoring-spaces4723",
+        "difficulty": "Easy",
+        "language": "Java",
+        "url": "https://www.geeksforgeeks.org/problems/string-palindromic-ignoring-spaces4723/1",
+        "solvedAt": "2026-10-25T19:27:25.800Z",
+        "patterns": [],
+        "topics": [
+          "String"
+        ],
+        "tags": [
+          "String"
+        ]
+      },
+      "solvedAt": "2026-10-25T19:27:25.800Z"
+    }
+  ]
+}
